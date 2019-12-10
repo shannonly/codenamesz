@@ -1,0 +1,20 @@
+{
+  "name": "codenamesz",
+  "version": "1.0.0",
+  "description": "codenamesz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "browser-sync start --server . --files ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shannonly/codenamesz.git"
+  },
+  "author": "Shannon Zylstra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shannonly/codenamesz/issues"
+  },
+  "homepage": "https://github.com/shannonly/codenamesz#readme"
+}
